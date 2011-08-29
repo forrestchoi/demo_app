@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require File.expend_path('../../lib/cape_command', __FILE)
